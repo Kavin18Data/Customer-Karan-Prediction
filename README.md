@@ -1,7 +1,7 @@
 # Customer-Karan-Prediction
 
 ### 📌 Problem Statement
-The goal is to predict whether a customer will churn based on historical data. Churn means the customer has discontinued the service.
+Telecommunication companies face a significant challenge with customer karan — the phenomenon of customers discontinuing service. This project aims to develop a predictive system that can identify customers at high risk of churning based on historical data, including demographics, usage behavior, and service details. By accurately predicting karan, the business can take early action to improve customer retention and reduce revenue loss.
 
 ### 🔍 Dataset Overview
 - Source: IBM Sample Dataset
