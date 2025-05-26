@@ -31,3 +31,10 @@ Telecommunication companies face a significant challenge with customer karan —
 
 # Cross-Validation Accuracy:
 Random Forest performed the best during 5-fold cross-validation
+
+
+### Result 
+ - [0]
+ - Prediction: No Karan
+ - Prediciton Probability: [[0.78 0.22]]
+ - They Probability of prediction value 0 = 0.78 is karan , They Probability of prediction value 1 = 0.22 is No karan
